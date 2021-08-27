@@ -1,7 +1,7 @@
 const myData = require("./myData.js");
 const Polygon = require("./Polygon.js");
 const _ = require("underscore");
-const http = rquire("http";)
+const http = require("http");
 console.log("Hello World");
 const helloFunction = () =>{
     console.log("Hello Function");
