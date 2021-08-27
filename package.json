@@ -1,0 +1,23 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "First Node Server",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyDanh/FirstNode.git"
+  },
+  "author": "Duy Danh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DuyDanh/FirstNode/issues"
+  },
+  "homepage": "https://github.com/DuyDanh/FirstNode#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}
